@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1"
+	 id="svg2176" inkscape:version="0.92.3 (2405546, 2018-03-11)" sodipodi:docname="selenium-hicolor-scalable.svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 266 266"
+	 style="enable-background:new 0 0 266 266;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_1_);}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+</style>
+<sodipodi:namedview  bordercolor="#666666" borderopacity="1.0" id="base" inkscape:current-layer="layer1" inkscape:cx="142.13222" inkscape:cy="145.16857" inkscape:document-units="mm" inkscape:pagecheckerboard="true" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:window-height="1040" inkscape:window-maximized="1" inkscape:window-width="2048" inkscape:window-x="0" inkscape:window-y="34" inkscape:zoom="3.2460671" pagecolor="#ffffff" showgrid="false" units="px">
+	</sodipodi:namedview>
+<g>
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="266.1921" y1="235.6173" x2="-0.1921" y2="30.3827">
+		<stop  offset="0" style="stop-color:#733A96"/>
+		<stop  offset="1" style="stop-color:#9268AC"/>
+	</linearGradient>
+	<path class="st0" d="M232.7,261H33.3C17.7,261,5,248.3,5,232.7V33.3C5,17.7,17.7,5,33.3,5h199.4C248.3,5,261,17.7,261,33.3v199.4
+		C261,248.3,248.3,261,232.7,261z"/>
+	<g>
+		<path class="st1" d="M166.8,164.5h20.5l52.7-65.3c1-1.3,1-2.9,0.1-4.2l-37.1-49.8c-0.7-1-1.8-1.5-3-1.5H133H71L95,73.9h26.7h49.8
+			h0.5c2.4,0,4.9,0.4,7.1,1.3l0.2,0.1c2.4,0.9,4.4,2,6.1,3.5c1.5,1.2,2.8,2.6,4,4.2l0.8,1l0.1,0.1l9,12.1c0.3,0.5,0.7,0.9,1,1.4
+			c4.3,6.9,3.8,15.5-1.4,21.9l-8.3,10.2l-22,27.3l-3.9,4.9L166.8,164.5z"/>
+		<path class="st1" d="M166.8,164.5h20.5l52.7-65.3c0.4-0.5,0.6-1,0.7-1.6h-40.4c4.3,6.9,3.8,15.5-1.4,21.9l-8.3,10.2l-22,27.3
+			l-3.9,4.9L166.8,164.5z"/>
+		<path class="st1" d="M60.4,48.9L26,95c-1,1.3-0.9,3,0.1,4.2l99.2,123.1h7.7h7.7l40-49.6c-18.4,0-36.8,0-55.2,0
+			c-3.7,0-6.9-1.5-9.2-4.4l-54.8-68c-1.3-1.6-1.3-3.8-0.1-5.5l4.6-6l55,69.3c0.7,0.8,1.6,1.3,2.6,1.3c3.4,0,6.7,0,10.1,0
+			c0-7.5,0-15,0-22.6h-1.2c-1.5,0-2.8-0.6-3.7-1.8L60.4,48.9z"/>
+		<path class="st1" d="M25.3,97.6c0.1,0.6,0.3,1.1,0.7,1.6l99.2,123.1h7.7h7.7l40-49.6c-18.4,0-36.8,0-55.2,0
+			c-3.7,0-6.9-1.5-9.2-4.4l-54.8-68c-0.7-0.8-1-1.8-1-2.7H25.3z"/>
+		<polygon class="st1" points="125.3,222.3 133,222.3 140.7,222.3 143,198.2 127.6,198.2 		"/>
+		<path class="st1" d="M163.6,172.7h-38.1c-3.7,0-6.9-1.5-9.2-4.4l-54.8-68c-0.7-0.8-1-1.8-1-2.7h-14l81.1,100.6h7.7h7.7
+			L163.6,172.7z"/>
+		<path class="st1" d="M59.4,80.4l-8,10.6c-3,3.9-2.9,9.2,0.2,13l51.8,64.2c2.3,2.9,5.5,4.4,9.2,4.4c4.3,0,8.6,0,12.9,0
+			c-3.7,0-6.9-1.5-9.2-4.4l-54.8-68c-1.3-1.6-1.3-3.8-0.1-5.5l4.6-6L59.4,80.4z"/>
+		<path class="st1" d="M172,73.9c2.4,0,4.9,0.4,7.1,1.3c4.1,1.4,7.6,4.1,10.4,7.8l9.9,13.2c5.3,7.1,5.1,16.5-0.4,23.3l-8.3,10.2
+			l-22,27.3l-3.9,4.9l0.2,0.3l13.3-16.5l22-27.3l8.3-10.2c5.5-6.9,5.7-16.3,0.4-23.3l-9.9-13.2c-4.4-5.9-10.7-9-18-9H86.2L95,73.9
+			h76.5H172z"/>
+		<path class="st1" d="M187.5,63.4l14.3-19.2c-0.6-0.3-1.2-0.5-1.9-0.5H133H71L86,62.6h35.7h49.2h10.2
+			C183.3,62.6,185.5,62.9,187.5,63.4z"/>
+		<path class="st1" d="M240,95l-37.1-49.8c-0.7-1-1.8-1.5-3-1.5H133l64.2,1.3c0.5,0,1,0.3,1.2,0.8c0.2,0.5,0.2,1-0.1,1.4l-10.9,16.2
+			l13.3-15.7c0.3-0.3,0.7-0.5,1.1-0.5c0.4,0,0.8,0.2,1.1,0.5L240,95z"/>
+		<path class="st1" d="M46.5,67.5L26,95c-1,1.3-0.9,3,0.1,4.2l27.6,34.2h0L27.5,99.8c-0.3-0.3-0.3-0.7-0.1-1.1
+			c0.2-0.4,0.5-0.6,0.9-0.6L49,97.6l-20.9-0.6c-0.5,0-0.9-0.3-1.1-0.7c-0.2-0.4-0.2-0.9,0.1-1.3L46.5,67.5L46.5,67.5z"/>
+		<path class="st1" d="M168.7,84.1c2.8,0,5.1,1.2,6.8,3.4l13.3,17.2c1.5,1.9,1.4,4.5-0.1,6.3l-5,6.3c-8.7,11.2-17.2,22.3-26,33.2
+			c-18.6-21.7-36.8-44.3-55-66.4C124.7,84.1,146.7,84.1,168.7,84.1z"/>
+	</g>
+</g>
+</svg>
