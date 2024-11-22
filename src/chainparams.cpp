@@ -461,11 +461,11 @@ public:
         // This is fine at runtime as we'll fall back to using them as a oneshot if they don't support the
         // service bits we want, but we should get them updated to support all service bits wanted by any
         // release ASAP to avoid it where possible.
-        vSeeds.emplace_back("68.183.68.224");
-        vSeeds.emplace_back("104.248.242.107");
-        vSeeds.emplace_back("68.183.68.238");
-        vSeeds.emplace_back("104.248.250.87");
-        vSeeds.emplace_back("159.223.26.95");
+        vSeeds.emplace_back("147.93.134.103");
+        vSeeds.emplace_back("147.93.134.104");
+        vSeeds.emplace_back("147.93.134.105");
+        vSeeds.emplace_back("147.93.134.106");
+        vSeeds.emplace_back("147.93.134.107");
         vSeeds.emplace_back("38.242.249.187");
 
         // selenium addresses start with 'S'
@@ -511,11 +511,17 @@ public:
 
         checkpointData = {{
             {  0,  uint256S("0x0000080349ae4ba8d7e2edc2e70672ceb729a4cae2caaca6b379effcd51a8378")},
+            {  789,  uint256S("0x000000e392572701c9ba5c935e5d30a28b37420bc53d11e03dd3999e345bc508")},
+            {  2146,  uint256S("0x76e29693c92e93a0f52905c6c22c8b15ac9d95b26bcba3bb85e47ff7f9058483")},
+            {  4285,  uint256S("0x16f66c4aba367018a632cf6c1563efcf9171e780c2ec965db478ff4c4e9d7bf5")},
+            {  5280,  uint256S("0x8e9536fadcf573b0d14bb149244d080281dd0fa639b999933adea6884e86d3ab")},
+            {  7451,  uint256S("0x976cc1e796f94d518bceaad770723570efa19a7f28003d4fa571d26609d0a867")},
+            {  9463,  uint256S("0x26c4fd40d53e8d676339c4ab083462dec7dcb58f3ffb25791c531567f9f672cc")},
         }};
 
         chainTxData = ChainTxData{
-            1601926884, // * UNIX timestamp of last known number of transactions
-            1520071,    // * total number of transactions between genesis and that timestamp
+            1732133335, // * UNIX timestamp of last known number of transactions
+            19426,    // * total number of transactions between genesis and that timestamp
                         //   (the tx=... number in the SetBestChain debug.log lines)
             0.175       // * estimated number of transactions per second after that timestamp
         };
